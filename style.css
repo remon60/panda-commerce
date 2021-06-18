@@ -18,6 +18,22 @@ border-radius: 8px;
 border: none;
 padding: 9px 25px;
 cursor: pointer;
-
-
+}
+.cat1{
+    background-image:linear-gradient(to bottom, #eebc18 0%, #ece90d 100%);
+}
+.cat2{
+    background-image:linear-gradient(to bottom, #b4044b 0%, #fc629d 100%);
+}
+.cat3{background-image:linear-gradient(to bottom, #7356f3 0%, #1317ff 100%);background-color: blue;
+}
+.cat1, .cat2, .cat3{
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.catagories h1{
+    color: #fff;
+}
+.catagories im{
+    width: 100px;
 }
