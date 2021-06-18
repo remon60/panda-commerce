@@ -47,3 +47,13 @@ cursor: pointer;
     background-color: white;
     border-top: none;
 }
+#subscribe{
+    height: 300px;
+
+}
+#subscribe h6{
+    color: grey;
+}
+footer{
+    text-align: center;
+} 
